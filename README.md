@@ -14,5 +14,4 @@ MMPhotoViewController *vc = [[MMPhotoViewController alloc] init];
     [self.view addSubview:vc.view];
     [self addChildViewController:vc];
     
-    
-https://github.com/nantianwang/MMPhoto/blob/master/IMB_O30ccN.GIF
+    ![image](https://github.com/nantianwang/MMPhoto/blob/master/IMB_O30ccN.GIF)
