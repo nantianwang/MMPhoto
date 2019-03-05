@@ -1,5 +1,6 @@
 # MMPhoto
 一个图片浏览器
+接手公司项目后发现图片浏览没有滑动关闭的功能，所以在此基础上加上了
 用法
 MMPhotoViewController *vc = [[MMPhotoViewController alloc] init];
     vc.urlArray = @[@"https://img-my.csdn.net/uploads/201407/26/1406383299_1976.jpg",
